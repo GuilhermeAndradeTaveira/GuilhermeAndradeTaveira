@@ -1,11 +1,12 @@
-Greetings and welcome to my GitHub profile!
+Hello and welcome to my GitHub profile!
 
-My name is Guilherme Andrade, and I'm currently pursuing a degree in Computer Science at CEFET/RJ. I am deeply passionate about technology and perpetually driven to enhance my skills and knowledge within the field.
-My primary areas of interest lie in Backend development and Cybersecurity. I am dedicated to mastering these domains and contributing to innovative solutions within the industry.
-
-Within my repositories, you'll find a culmination of my efforts, showcasing my commitment to delivering high-quality solutions and fostering innovation. Feel free to explore and engage with my projects, and don't hesitate to reach out if you have any questions or collaboration opportunities.
+My name is Guilherme Andrade, and I'm a computer science student at CEFET/RJ. I have a strong interest in back-end development and cybersecurity. I'm constantly seeking to improve my skills and expand my knowledge of technology. Here, you'll find the efforts I've made to deliver high-quality solutions in various programming languages. Feel free to browse through my repositories and contribute to my projects.
 
 Thank you for visiting, and I look forward to connecting with you!
+
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cap1vas&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cap1vas&show_icons=true&theme=tokyonight)](https://github.com/Cap1vas/github-readme-stats)
