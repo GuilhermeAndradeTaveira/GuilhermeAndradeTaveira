@@ -8,8 +8,8 @@ Thank you for visiting, and I look forward to connecting with you!
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cap1vas&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cap1vas&show_icons=true&theme=tokyonight)](https://github.com/Cap1vas/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuihermeAndradeTaveira&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuihermeAndradeTaveira&show_icons=true&theme=tokyonight)](https://github.com/GuihermeAndradeTaveira/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
