@@ -4,6 +4,13 @@ My name is Guilherme Andrade, and I'm a computer science student at CEFET/RJ. I 
 
 Thank you for visiting, and I look forward to connecting with you!
 
+### ⚙️ Tecnologias
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAndradeTaveira&hide_progress=true&theme=synthwave)
