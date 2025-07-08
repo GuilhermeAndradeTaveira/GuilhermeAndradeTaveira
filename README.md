@@ -6,7 +6,7 @@ Thank you for visiting, and I look forward to connecting with you!
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAndradeTaveira&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAndradeTaveira&hide_progress=true&theme=synthwave)
 
 
 <div style="display: inline_block"><br>
