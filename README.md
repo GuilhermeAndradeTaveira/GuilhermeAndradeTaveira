@@ -13,4 +13,4 @@ Thank you for visiting, and I look forward to connecting with you!
 
 
 ### 📊 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAndradeTaveira&hide_progress=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAndradeTaveira&hide_progress=true&theme=default)
